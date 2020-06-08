@@ -51,6 +51,5 @@ def aoh_update(aoh, row, key, new_value)
 
   # aoh[row][key] = new_value
   # aoh[row][key]
-  aoh[row][key] = "Joelle van Dyne (PGOAT)"
-  [aoh][row][key]
+
  end
